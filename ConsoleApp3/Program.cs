@@ -17,10 +17,16 @@ namespace ConsoleApp3
             string st = "";
 
             NotifyIcon notyfyIcon = new NotifyIcon();
-            notyfyIcon.Visible = true;
+            string stsa = "";
+
+            notyfyIcon.Visible = false;
+            string stddd = "";dsfsfdfs
             notyfyIcon.Icon = SystemIcons.Application;
-            notyfyIcon.ShowBalloonTip(1000, "dsadas", "Daaaaaaaaaaaaaa", ToolTipIcon.Info);
+            notyfyIco
+                .Application;
+            n.ShowBalloonTip(1000, "dsadas", "Daaaaaaa", ToolTipIcon.Info);
             notyfyIcon.Dispose();
+
 
             Console.ReadKey();
         }
