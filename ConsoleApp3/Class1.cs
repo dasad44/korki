@@ -13,10 +13,13 @@ namespace ConsoleApp3
             if (Keyboard.IsKeyDown(Key.C)           //ctrl+C
           && Keyboard.IsKeyDown(Key.LeftCtrl) && ctrl1clicked == false && ctrl2clicked == false
           || Keyboard.IsKeyDown(Key.RightCtrl)
-          && Keyboard.IsKeyDown(Key.C) && ctrl1clicked == false && ctrl2clicked == false)
+          && Keyboard
+
+          .IsKeyDown(Key.C) && ctrl1clicked == false && ctrl2clicked == false)
             {
                 tmp1 = Clipboard.GetText();
-              
+
+
                 else
                 {
                     text_3 = text_2;
@@ -42,7 +45,14 @@ namespace ConsoleApp3
             {
                 //ctrl1clicked = false;
                 //text_1 = clipboardhandler.S
-                e if (Keyboard.IsKeyDown(Key.C)           //ctrl+CC
+                e if (Keyboard.IsKeyDown(Key.C)           //c
+                                                          //
+                                                          //y.C))
+                {
+                    ctrl1clicked = false;
+                    ctrl2clicked = false;
+                }
+                trl +CC
           && Keyboard.IsKeyDown(Key.LeftCtrl) && ctrl1clicked == true && ctrl2clicked == false
           || Keyboard.IsKeyDown(Key.RightCtrl)
                     ve if (Keyboard.IsKeyDown(Key.C)           //ctrl+CC
@@ -53,10 +63,7 @@ namespace ConsoleApp3
                 //MessageBox.Show("D1111");
             }
             else if (Keyboard.IsKeyUp(Key.C)
-          && Keyboard.IsKeyUp(Key.LeftCtrl)
-          || Keyboard.IsKeyUp(Key.RightCtrl)
-          && Keyboard.IsKeyUp(Key.C))
-            {
+          &&
                 ctrl1clicked = false;
                 ctrl2clicked = false;
             }
@@ -67,8 +74,7 @@ namespace ConsoleApp3
             {
                 //text_1 = clipboardhandler.SaveText();
                 
-                ctrl1clicked = f\
-                cxzcxzc
+                ctrl1cli
                     xc
                     cx
                     cz
