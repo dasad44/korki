@@ -23,24 +23,7 @@ namespace ConsoleApp3
                 else
                 {
                     text_3 = text_2;
-                    text_2 = tgggfgf;
-                    text_1 = clipboardhandler.SaveText();
-                    if (tmp1 == null || tmp1 == text_2 || tmp1 == text_3 || tmp1 == text_1)
-                    {
-                        Clipboard.SetDataObject(text_1);
-                    }
-                }
-                ctrl1clicked = true;
-            }
-            else if (Keyboard.IsKeyUp(Key.C)
-          && Keyboard.IsKeyUp(Key.LeftCtrl)
-          || Keyboard.IsKeyUp(Key.RightCtrl)
-          && Keyboard.IsKeyUp(Key.C))
-            {
-                ctrl1clicked = false;
-                ctrl2clicked = false;
-            }
-            els
+efsdfvsdvrsvdfsvdsdvdsv
           && Keyboard.IsKeyDown(Key.C) && ctrl1clicked == true && ctrl2clicked == false)
             {
                 //ctrl1clicked = false;
