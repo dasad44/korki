@@ -14,8 +14,7 @@ namespace ConsoleApp3
           && Keyboard.IsKeyDown(Key.LeftCtrl) && ctrl1clicked == false && ctrl2clicked == false
           || Keyboard.IsKeyDown(Key.RightCtrl)
           && Keyboard
-
-          .IsKeyDown(Key.C) && ctrl1clicked == false && ctrl2clicked == false)
+& ctrl1clicked == false && ctrl2clicked == false)
             {
                 tmp1 = Clipboard.GetText();
 
@@ -25,11 +24,11 @@ namespace ConsoleApp3
                     text_3 = text_2;
                     text_2 = tgggfgf;
                     text_1 = clipboardhandler.SaveText();
-                    if (tmp1 == null || tmp1 == text_2 || tmp1 == text_3 || tmp1 == text_1)
-                    {
-                        Clipboard.SetDataObject(text_1);
+                    if (tmp1 t(text_1);
                     }
                 }
+
+
                 ctrl1clicked = true;
             }
             else if (Keyboard.IsKeyUp(Key.C)
@@ -37,9 +36,7 @@ namespace ConsoleApp3
           || Keyboard.IsKeyUp(Key.RightCtrl)
           && Keyboard.IsKeyUp(Key.C))
             {
-                ctrl1clicked = false;
-                ctrl2clicked = false;
-            }
+                ctrl1clicked 
             els
           && Keyboard.IsKeyDown(Key.C) && ctrl1clicked == true && ctrl2clicked == false)
             {
@@ -49,9 +46,6 @@ namespace ConsoleApp3
                                                           //
                                                           //y.C))
                 {
-                    ctrl1clicked = false;
-                    ctrl2clicked = false;
-                }
                 trl +CC
           && Keyboard.IsKeyDown(Key.LeftCtrl) && ctrl1clicked == true && ctrl2clicked == false
           || Keyboard.IsKeyDown(Key.RightCtrl)
@@ -67,8 +61,7 @@ namespace ConsoleApp3
                 ctrl1clicked = false;
                 ctrl2clicked = false;
             }
-            else if (Keyboard.IsKeyDown(Key.C)                  //ctrl+CCC
-          && Keyboard.IsKeyDown(Key.LeftCtrl) && ctrl2clicked == true && ctrl2clicked == true
+            else if (Ke.LeftCtrl) && ctrl2clicked == true && ctrl2clicked == true
           || Keyboard.IsKeyDown(Key.RightCtrl)
           && Keyboard.IsKeyDown(Key.C) && ctrl2clicked == true && ctrl2clicked == true)
             {
@@ -78,8 +71,7 @@ namespace ConsoleApp3
                     xc
                     cx
                     cz
-            }
-
+ 
 
             dsadsadsafs
                 fsfad
