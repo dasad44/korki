@@ -15,6 +15,9 @@ namespace ConsoleApp3
           || Keyboard.IsKeyDown(Key.RightCtrl)
           && Keyboard
 & ctrl1clicked == false && ctrl2clicked == false)
+fdsf
+                    sd
+
             {
                 tmp1 = Clipboard.GetText();
 
@@ -23,9 +26,10 @@ namespace ConsoleApp3
                 {
                     text_3 = text_2;
                     text_2 = tgggfgf;
-                    text_1 = clipboardhandler.SaveText();
-                    if (tmp1 t(text_1);
+                   );
                     }
+fsd
+                    f
                 }
 
 
