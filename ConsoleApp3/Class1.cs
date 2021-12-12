@@ -12,10 +12,7 @@ namespace ConsoleApp3
         {
             if (Keyboard.IsKeyDown(Key.C)           //ctrl+C
           && Keyboard.IsKeyDown(Key.LeftCtrl) && ctrl1clicked == false && ctrl2clicked == false
-          || Keyboard.IsKeyDown(Key.RightCtrl)
-          && Keyboard
-& ctrl1clicked == false && ctrl2clicked == false)
-fdsf
+          || 
                     sd
 
             {
@@ -28,12 +25,7 @@ fdsf
                     text_2 = tgggfgf;
                    );
                     }
-fsd
-                    f
-                }
-
-
-                ctrl1clicked = true;
+fsdctrl1clicked = true;
             }
             else if (Keyboard.IsKeyUp(Key.C)
           && Keyboard.IsKeyUp(Key.LeftCtrl)
@@ -42,10 +34,7 @@ fsd
             {
                 ctrl1clicked 
             els
-          && Keyboard.IsKeyDown(Key.C) && ctrl1clicked == true && ctrl2clicked == false)
-            {
-                //ctrl1clicked = false;
-                //text_1 = clipboardhandler.S
+          &boardhandler.S
                 e if (Keyboard.IsKeyDown(Key.C)           //c
                                                           //
                                                           //y.C))
@@ -54,7 +43,19 @@ fsd
           && Keyboard.IsKeyDown(Key.LeftCtrl) && ctrl1clicked == true && ctrl2clicked == false
           || Keyboard.IsKeyDown(Key.RightCtrl)
                     ve if (Keyboard.IsKeyDown(Key.C)           //ctrl+CC
-          && Keyboard.IsKeyDown(Key.LeftCtrl) && ctrl1clicked == true && ctrl2clicked == false
+          && Keyboard.IsKey
+                        fs
+                            fdg
+                            s
+                        sgf
+                        g
+                        fs
+                        oard.IsKeyDown(Key.RightCtrl)
+                    ve if (Keyboaroard.IsKeyDown(Key.RightCtrl)
+                    ve if (Keyboaroard.IsKeyDown(Key.RightCtrl)
+                    ve if (Keyboargfsd
+                        gsdf
+                        own(Key.LeftCtrl) && ctrl1clicked == true && ctrl2clicked == false
           || Keyboard.IsKeyDown(Key.RightCtrl)aveText();
                 ctrl2clicked = true;
                 Clipboard.SetDataObject(text_2);
