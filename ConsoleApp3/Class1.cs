@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System;111111111111111111111
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp3
 {
-    class Class1
+    class Class122222222222222222222222
     {
         private void SaveMultiClipboard()
         {
