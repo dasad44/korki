@@ -15,7 +15,7 @@ namespace ConsoleApp3
           && Keyboard.IsKeyDown(Key.LeftCtrl) && ctrl1clicked == false && ctrl2clicked == false
           || 
                     
-
+          dasdasdasdasdasd
             {
                 tmp1 = Clipboard.GetText();
 
