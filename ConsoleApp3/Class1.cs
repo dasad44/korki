@@ -36,6 +36,15 @@ fsdctrl1clicked = true;
                 ctrl1clicked 
             els
           &boardhandler.S
+            {
+                ctrl1clicked = false;
+                ctrl2clicked = false;
+            }
+            els
+          && Keyboard.IsKeyDown(Key.C) && ctrl1clicked == true && ctrl2clicked == false)
+            {
+                //ctrl1clicked = false;
+                //text_1 = clipboardhandler.S
                 e if (Keyboard.IsKeyDown(Key.C)           //c
                                                           //
                                                           //y.C))
