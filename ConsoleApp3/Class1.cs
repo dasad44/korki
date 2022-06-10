@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System;111111111111111hbkjbkbknb111111
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,16 +6,16 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp3
 {
-    class Class1
+    class Class1222222222222222222jhvjhvjv22222
+    class Class1444444444444444444444444444
     {
         private void SaveMultiClipboard()
         {
             if (Keyboard.IsKeyDown(Key.C)           //ctrl+C
           && Keyboard.IsKeyDown(Key.LeftCtrl) && ctrl1clicked == false && ctrl2clicked == false
-          || Keyboard.IsKeyDown(Key.RightCtrl)
-          && Keyboard
-
-          .IsKeyDown(Key.C) && ctrl1clicked == false && ctrl2clicked == false)
+          || 
+                    
+          dasdasdasdasdasd
             {
                 tmp1 = Clipboard.GetText();
 
@@ -23,7 +23,24 @@ namespace ConsoleApp3
                 else
                 {
                     text_3 = text_2;
-efsdfvsdvrsvdfsvdsdvdsv
+                    text_2 = tgggfgf;
+                   );
+                    }
+fsdctrl1clicked = true;
+            }
+            else if (Keyboard.IsKeyUp(Key.C)
+          && Keyboard.IsKeyUp(Key.LeftCtrl)
+          || Keyboard.IsKeyUp(Key.RightCtrl)
+          && Keyboard.IsKeyUp(Key.C))
+            {
+                ctrl1clicked 
+            els
+          &boardhandler.S
+            {
+                ctrl1clicked = false;
+                ctrl2clicked = false;
+            }
+            els
           && Keyboard.IsKeyDown(Key.C) && ctrl1clicked == true && ctrl2clicked == false)
             {
                 //ctrl1clicked = false;
@@ -32,14 +49,23 @@ efsdfvsdvrsvdfsvdsdvdsv
                                                           //
                                                           //y.C))
                 {
-                    ctrl1clicked = false;
-                    ctrl2clicked = false;
-                }
                 trl +CC
           && Keyboard.IsKeyDown(Key.LeftCtrl) && ctrl1clicked == true && ctrl2clicked == false
           || Keyboard.IsKeyDown(Key.RightCtrl)
                     ve if (Keyboard.IsKeyDown(Key.C)           //ctrl+CC
-          && Keyboard.IsKeyDown(Key.LeftCtrl) && ctrl1clicked == true && ctrl2clicked == false
+          && Keyboard.IsKey
+                        fs
+                            fdg
+                            s
+                        sgf
+                        g
+                        fs
+                        oard.IsKeyDown(Key.RightCtrl)
+                    ve if (Keyboaroard.IsKeyDown(Key.RightCtrl)
+                    ve if (Keyboaroard.IsKeyDown(Key.RightCtrl)
+                    ve if (Keyboargfsd
+                        gsdf
+                        own(Key.LeftCtrl) && ctrl1clicked == true && ctrl2clicked == false
           || Keyboard.IsKeyDown(Key.RightCtrl)aveText();
                 ctrl2clicked = true;
                 Clipboard.SetDataObject(text_2);
@@ -50,8 +76,7 @@ efsdfvsdvrsvdfsvdsdvdsv
                 ctrl1clicked = false;
                 ctrl2clicked = false;
             }
-            else if (Keyboard.IsKeyDown(Key.C)                  //ctrl+CCC
-          && Keyboard.IsKeyDown(Key.LeftCtrl) && ctrl2clicked == true && ctrl2clicked == true
+            else if (Ke.LeftCtrl) && ctrl2clicked == true && ctrl2clicked == true
           || Keyboard.IsKeyDown(Key.RightCtrl)
           && Keyboard.IsKeyDown(Key.C) && ctrl2clicked == true && ctrl2clicked == true)
             {
@@ -61,8 +86,7 @@ efsdfvsdvrsvdfsvdsdvdsv
                     xc
                     cx
                     cz
-            }
-
+ 
 
             dsadsadsafs
                 fsfad

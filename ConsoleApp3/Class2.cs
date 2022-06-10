@@ -12,14 +12,18 @@ namespace ConsoleApp3
             da
             dsadsadsadsadsadsads
             dsdasdsadsadsa
-            sd
+  
             asgfd
+            hgh
+            gh
+            h
+            g
             dfgh
             dgh
             ghd
-            ghd
+            ghdhfhffh
             dgh
-            decimalsd
+            de
             ad
             sd
             a
