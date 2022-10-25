@@ -8,6 +8,7 @@ namespace ConsoleApp3
 {
     class Class2
     {
+        bbbbbbbbbbbbbbbbbbbbbbbbbbb
         dsadsadsdsdsdsads
             da
             dsadsadsadsadsadsads
@@ -18,7 +19,7 @@ namespace ConsoleApp3
             sdf
             fsd
             dfdd
-
+            bbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
   
             asgfd
