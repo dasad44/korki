@@ -9,6 +9,7 @@ namespace ConsoleApp3
     class Class2
     {
         bbbbbbbbbbbbbbbbbbbbbbbbbbb
+        aaaaaaaaaaaaaaaa
         dsadsadsdsdsdsads
             da
             dsadsadsadsadsadsads
@@ -19,7 +20,7 @@ namespace ConsoleApp3
             sdf
             fsd
             dfdd
-            bbbbbbbbbbbbbbbbbbbbbbbbbbbb
+            aaaaaaaaaaaaaaaaaaaa
 
   
             asgfd
