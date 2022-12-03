@@ -16,10 +16,14 @@ namespace ConsoleApp3
         {
             string st = "";
             bbbbbbbbbbbbbbbbbbbbbbbbb
+
+
+                rgert
+                t
+                hrhrt
+
             NotifyIcon notyfyIcon = new NotifyIcon();
             string stsa = "";
-
-            notyfyIcon.Visible = false;
             string stddd = "";dsfsfdfs
             notyfyIcon.Icon = SystemIcons.Application;
             notyfyIco

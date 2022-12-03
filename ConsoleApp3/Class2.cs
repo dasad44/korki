@@ -9,16 +9,16 @@ namespace ConsoleApp3
     class Class2
     {
         bbbbbbbbbbbbbbbbbbbbbbbbbbb
-        aaaaaaaaaaaaaaaa
-        dsadsadsdsdsdsads
+
             da
             dsadsadsadsadsadsads
             dsdasdsadsadsa
-            asdfasdf
-            fasd
-            sdf
-            sdf
-            fsd
+            jk
+            lk
+            l
+            jhlh
+            k
+
             dfdd
             aaaaaaaaaaaaaaaaaaaa
 
