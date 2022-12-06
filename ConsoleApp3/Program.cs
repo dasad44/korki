@@ -26,8 +26,7 @@ namespace ConsoleApp3
             string stsa = "";
             string stddd = "";dsfsfdfs
             notyfyIcon.Icon = SystemIcons.Application;
-            notyfyIco
-                .Application;
+            fsdfs
             n.ShowBalloonTip(1000, "dsadas", "Daaaaaaa", ToolTipIcon.Info);
             notyfyIcon.Dispose();
 
