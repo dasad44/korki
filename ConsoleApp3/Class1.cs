@@ -100,7 +100,7 @@ fsdctrl1clicked = true;
             {
                 //text_1 = clipboardhandler.SaveText();
                 Clipboard.SetDataObject(text_3);
-                ctrl2clicked = false;
+                ctrl2clicked = true;
                 ctrl1clicked = false;
 
 

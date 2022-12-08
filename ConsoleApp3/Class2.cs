@@ -20,7 +20,7 @@ namespace ConsoleApp3
             k
 
             dfdd
-            aaaaaaaaaaaaaaaaaaaa
+            ddddddddddddddddddddddddd d ddddd
 
   
             asgfd
@@ -34,8 +34,6 @@ namespace ConsoleApp3
             ghdhfhffh
             dgh
             de
-            ad
-            sd
-            a
+           ujhjjkhkkhgkghjkgkjkg
     }
 }

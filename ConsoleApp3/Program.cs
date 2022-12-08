@@ -18,9 +18,9 @@ namespace ConsoleApp3
             bbbbbbbbbbbbbbbbbbbbbbbbb
 
 
-                rgert
-                t
-                hrhrt
+                rgeu tyu tyrt
+                t jhgj ghk g
+                hrhr kjkkkjt
 
             NotifyIcon notyfyIcon = new NotifyIcon();
             string stsa = "";
