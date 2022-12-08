@@ -34,6 +34,6 @@ namespace ConsoleApp3
             ghdhfhffh
             dgh
             de
-            co kolwiek
+           ujhjjkhkkhgkghjkgkjkg
     }
 }
