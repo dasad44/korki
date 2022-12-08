@@ -100,8 +100,9 @@ fsdctrl1clicked = true;
             {
                 //text_1 = clipboardhandler.SaveText();
                 Clipboard.SetDataObject(text_3);
-                ctrl2clicked = false;
-                ctrl1clicked = false;
+                ctrl2clicked2321312 = false;
+                ctrl1clicked = true;
+                        rggrdgfd
 
 
 
