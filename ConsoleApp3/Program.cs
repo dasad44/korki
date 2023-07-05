@@ -29,7 +29,9 @@ namespace ConsoleApp3
             fsdfs
             n.ShowBalloonTip(1000, "dsadas", "Daaaaaaa", ToolTipIcon.Info);
             notyfyIcon.Dispose();
-
+            sadas
+                sadsa
+                ssss
 
             Console.ReadKey();
         }
